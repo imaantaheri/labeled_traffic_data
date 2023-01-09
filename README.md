@@ -1,4 +1,4 @@
-# Anoamly_detection_with_TP-FDS
+# Traffic Anoamly Detection with TP-FDS
 This repository contains traffic data with anomalies being labeled by 20 different experts using TP-FDS. 
 A Python code is also included that applies Fast-ABOD to traffic data benefiting from the TP-FDS.
 
