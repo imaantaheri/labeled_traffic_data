@@ -12,4 +12,5 @@ A TP-FDS demonstration of the data from 14-E.csv is shown here with colors indic
 ![image](https://user-images.githubusercontent.com/112522995/207738766-6141bff3-89c7-4d29-bc87-699cfd137e17.png)
 
 The whole data with selected anomalies can be oserved below. The color bar shows the propability of the points being anomalous.    
-![image](https://user-images.githubusercontent.com/112522995/211429917-9e473b81-76f3-465b-9140-7a27fb6df325.png)
+![image](https://user-images.githubusercontent.com/112522995/211430268-522e30db-fb38-4569-86b9-1e54a31ec1d2.png)
+
