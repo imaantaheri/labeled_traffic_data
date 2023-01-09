@@ -16,4 +16,4 @@ It can be observed that anomalies can be found in every parts of the diagram bot
 
 ![image](https://user-images.githubusercontent.com/112522995/211430268-522e30db-fb38-4569-86b9-1e54a31ec1d2.png)
 
-# Analysis of the labels in time series view of the data
+## Analysis of the labels in time series view of the data
