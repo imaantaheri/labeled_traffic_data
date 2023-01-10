@@ -1,6 +1,6 @@
 # Traffic Anoamly Detection with TP-FDS
 This repository contains traffic data with anomalies being labeled by 20 different experts using TP-FDS. 
-A Python code is also included that applies Fast-ABOD to traffic data benefiting from the TP-FDS. You can modify the code and use other anomaly detection methods to compare it with Fast-ABOD (See the PyOD library).
+A Python code is also included that applies Fast-ABOD to traffic data benefiting from the TP-FDS. Other anomaly detection methods also can be imbeded in this code for comparison purposes (See the PyOD library).
 
 The labeled data can be found in the "Labeled Data" folder. Data collected in Melbourne arterials are the files named with a single number and a letter. The number indicate the location (intersection) of the loop detectors (as in the provided figure), and the letter shows the direction of the incoming traffic to the intersection.   
 The name of the sites used from the Seattle loop data are mentioned in the name of the other four csv files. 
