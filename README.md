@@ -6,6 +6,8 @@ The labeled data can be found in the "Labeled Data" folder. Data collected in Me
 The name of the sites used from the Seattle loop data are mentioned in the name of the other four csv files. 
 More information about the Seattle dataset can be found in: https://github.com/zhiyongc/Seattle-Loop-Data 
 
+## Data Visualization
+
 The labeling procedure is recorded for better understanding: https://youtu.be/I7wv8SyDsaQ .
 A TP-FDS demonstration of the data from 14-E.csv is shown here with colors indicating the anomaly probability.
 
@@ -19,6 +21,6 @@ It can be observed that anomalies can be found in every parts of the diagram bot
 ## Analysis of the labels in time series view
 
 A part of the data from one location is selected and points with more than 70% of anomaly probability are spotted on it.
-As we can see, looking at the data,with benefiting from the TP-FDS, not only improves the labeling speed, but also results in a more precise labeling outcomes. Selection of all anomalies are justifyable (see the below figure).
+As we can see, looking at the data, with benefiting from the TP-FDS, not only improves the labeling speed, but also results in a more precise labeling outcomes. Selection of all anomalies are justifyable (see the below figure).
 
 ![image](https://user-images.githubusercontent.com/112522995/211432048-dbd49049-33ec-4db6-a45c-64557d0b2795.png)
