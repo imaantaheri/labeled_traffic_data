@@ -46,7 +46,7 @@ More information about the Seattle dataset can be found in [this link](https://g
 
 ## Data Visualization
 
-The labeling procedure is recorded for better understanding: https://youtu.be/I7wv8SyDsaQ . We used dash from Plotly to build the web app for this experiment. A sample code for design of the dash app can be found in https://github.com/imaantaheri/anomaly-labeling. 
+The labeling procedure is [recorded](https://youtu.be/I7wv8SyDsaQ) for better understanding. We used dash from Plotly to build the web app for this experiment. A sample code for design of the dash app can be found in [this repository](https://github.com/imaantaheri/anomaly-labeling). 
 A TP-FDS demonstration of the data from 14-E.csv is shown here with colors indicating the anomaly probability.
 
 ![image](https://user-images.githubusercontent.com/112522995/207738766-6141bff3-89c7-4d29-bc87-699cfd137e17.png)
