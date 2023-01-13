@@ -4,7 +4,7 @@ A Python code with relvant explanatins are also included that applies Fast-ABOD 
 
 The following libraries need to be installed before running the code:
 
-```ruby
+```
 pip install itertools
 pip install pandas
 pip install numpy
