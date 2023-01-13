@@ -47,7 +47,7 @@ More information about the Seattle dataset can be found in [this link](https://g
 ## Data Visualization
 
 The labeling procedure is [recorded](https://youtu.be/I7wv8SyDsaQ) for better understanding. We used dash from Plotly to build the web app for this experiment. A sample code for design of the dash app can be found in [this repository](https://github.com/imaantaheri/anomaly-labeling). 
-A TP-FDS demonstration of the data from 14-E.csv is shown here with colors indicating the anomaly probability.
+A TP-FDS demonstration of the data from `14-E.csv` is shown here with colors indicating the anomaly probability.
 
 ![image](https://user-images.githubusercontent.com/112522995/207738766-6141bff3-89c7-4d29-bc87-699cfd137e17.png)
 
@@ -58,7 +58,7 @@ It can be observed that anomalies can be found in every parts of the diagram bot
 
 ## Analysis of the labels in time series view
 
-A part of the data from one location is selected and points with more than 70% of anomaly probability are spotted on it.
+A part of the data from one location is selected and points with more than 70% of `Anomaly Probability` are spotted on it.
 As we can see, looking at the data, with benefiting from the TP-FDS, not only improves the labeling speed, but also results in a more precise labeling outcomes. Selection of all anomalies are justifyable (see the below figure). There are some situations (as mentioned by the red box in the figure below) that may seem to be anomalous, but it is not labeled by the TP-FDS. These parts show the power of the TP-FDS as it considers all the data at once (not just a part of it like in the below) to make a judgment about the data.   
 
 ![image](https://user-images.githubusercontent.com/112522995/211432048-dbd49049-33ec-4db6-a45c-64557d0b2795.png)
