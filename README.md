@@ -2,7 +2,19 @@
 This repository contains traffic data with anomalies being labeled by 20 different experts using TP-FDS. 
 A Python code is also included that applies Fast-ABOD to traffic data benefiting from the TP-FDS. Other anomaly detection methods also can be imbeded in this code for comparison purposes (See the PyOD library).
 
-The labeled data can be found in the "Labeled Data" folder. Data collected in Melbourne arterials are the files named with a single number and a letter. The number indicate the location (intersection) of the loop detectors (as in the provided figure), and the letter shows the direction of the incoming traffic to the intersection.   
+The labeled data can be found in the "Labeled Data" folder. Data of each location is stored in seperate csv files. Each file include columns described in the following table:
+
+| Column  | Description |
+| ------------- | ------------- |
+| Date  | Collection date with Day/Month/Year format  |
+| Time  | 15 minutes data period start time in Local time with Hour:Minute:Second format   |
+| Volume  | Number of vehicles passing the location (veh/hour)  |
+| Density  | Number of Vehicles existing in one km of the road segment (veh/km)  |
+| Person_i  | A binary variable indicating the labelset of persion i (for i in 0 to 19)  |
+| Anomaly Probability  | The probability of an observation being anomalous (derived based on the opinion of the labelers)  |
+
+
+Data collected in Melbourne arterials are the files named with a single number and a letter. The number indicate the location (intersection) of the loop detectors (as in the provided figure), and the letter shows the direction of the incoming traffic to the intersection.   
 The name of the sites used from the Seattle loop data are mentioned in the name of the other four csv files. 
 More information about the Seattle dataset can be found in: https://github.com/zhiyongc/Seattle-Loop-Data 
 
