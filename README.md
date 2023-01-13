@@ -23,7 +23,7 @@ label_thresh = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7]
 
 ## Data Description
 
-The labeled data can be found in the `Labeled Data` folder in this repository. Data of each location is stored in seperate `.csv` files. Each file include columns described in the following table:
+The labeled data can be found in the `Labeled Data` folder in this repository. Data of each location is stored in seperate `.csv` files. Each file include columns (features) described in the following table:
 
 | Column  | Description |
 | ------------- | ------------- |
