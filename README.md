@@ -11,7 +11,7 @@ pip install scikit-learn == 1.2.0
 pip install pyod == 1.0.7
 ```
 
-The inputs of this code are listed belw. The `directory` should be modified according to the location of the `.csv` data files.
+The inputs of this code are listed below. The `directory` should be modified according to the location of the `.csv` data files.
 
 ```
 # Inputs
