@@ -39,7 +39,7 @@ The labeled data can be found in the `Labeled Data` folder. Data of each locatio
 Data collected in Melbourne arterials are the files named with a single number and a letter. The number indicate the location (intersection) of the loop detectors (as in the provided figure), and the letter shows the direction of the incoming traffic to the intersection.   
 
 The name of the sites used from the Seattle loop data are mentioned in the name of the other four csv files. 
-More information about the Seattle dataset can be found in: https://github.com/zhiyongc/Seattle-Loop-Data 
+More information about the Seattle dataset can be found in [this link]([https://pyod.readthedocs.io/en/latest/](https://github.com/zhiyongc/Seattle-Loop-Data)). 
 
 ![image](https://user-images.githubusercontent.com/112522995/211434468-132e50da-4ff4-4a58-805d-857a1decca57.png)
 
