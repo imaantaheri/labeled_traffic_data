@@ -3,16 +3,14 @@ This repository contains traffic data with anomalies being labeled by 20 differe
 A Python code with relvant explanatins are also included that applies Fast-ABOD to traffic data benefiting from the TP-FDS. Other anomaly detection methods also can be imbeded in this code for comparison purposes (benefiting from the PyOD library).
 
 The following libraries need to be installed before running the code:
-```
-import itertools
-import pandas as pd
-import numpy as np
-from sklearn.metrics import precision_score, recall_score, f1_score
-from sklearn.preprocessing import MinMaxScaler
-import os
-from pyod.models.abod import ABOD
-from numpy import trapz
 
+```ruby
+pip install itertools
+pip install pandas
+pip install numpy
+pip install sklearn
+pip install os
+pip install pyod
 ```
 
 ## Data Description
