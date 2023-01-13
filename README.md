@@ -5,11 +5,10 @@ A Python code with relvant explanatins are also included that applies Fast-ABOD 
 The following libraries need to be installed before running the code:
 
 ```
-pip install pandas
-pip install numpy
-pip install sklearn
-pip install os
-pip install pyod
+pip install pandas == 1.5.2
+pip install numpy == 1.24.1
+pip install scikit-learn == 1.2.0
+pip install pyod == 1.0.7
 ```
 
 ## Data Description
