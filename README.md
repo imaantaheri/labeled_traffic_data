@@ -16,6 +16,7 @@ The labeled data can be found in the "Labeled Data" folder. Data of each locatio
 | Anomaly Probability  | The probability of an observation being anomalous (derived based on the opinion of the labelers)  |
 
 
+
 Data collected in Melbourne arterials are the files named with a single number and a letter. The number indicate the location (intersection) of the loop detectors (as in the provided figure), and the letter shows the direction of the incoming traffic to the intersection.   
 
 The name of the sites used from the Seattle loop data are mentioned in the name of the other four csv files. 
