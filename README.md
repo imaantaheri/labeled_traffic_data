@@ -31,7 +31,7 @@ The labeled data can be found in the `Labeled Data` folder in this repository. D
 | Time  | 15 minutes data period start time in Local time with Hour:Minute:Second format   |
 | Volume  | Number of vehicles passing the location (veh/hour)  |
 | Density  | Number of Vehicles existing in one km of the road segment (veh/km)  |
-| Person_i  | A binary variable indicating the labelset of persion i (for i in 0 to 19)  |
+| Person_i  | A binary variable indicating the labelset of person i (for i in 0 to 19)  |
 | Anomaly Probability  | The probability of an observation being anomalous (derived based on the opinion of the labelers)  |
 
 
